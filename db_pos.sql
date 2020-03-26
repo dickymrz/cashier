@@ -89,9 +89,7 @@ CREATE TABLE IF NOT EXISTS `operator` (
 --
 
 INSERT INTO `operator` (`operator_id`, `nama_lengkap`, `username`, `password`, `last_login`) VALUES
-(4, 'Ali Akbar', 'akbar', '4f033a0a2bf2fe0b68800a3079545cd1', '2016-05-23'),
-(5, 'Siti Komariyah', 'sitikom', '202cb962ac59075b964b07152d234b70', '2016-05-23'),
-(6, 'Admin Bos', 'admin', '21232f297a57a5a743894a0e4a801fc3', '2017-01-01');
+(6, 'Admin', 'admin', '21232f297a57a5a743894a0e4a801fc3', '2017-01-01');
 
 -- --------------------------------------------------------
 
